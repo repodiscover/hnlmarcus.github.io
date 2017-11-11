@@ -3,10 +3,11 @@ layout: about
 ---
 <hr> <br>
 
-# About
-
 <a style="color:black" class="btn btn-outline btn-xl page-scroll" href="/uploads/Christakis_CV.pdf">Download CV</a>
 
+<br>
+
+# About
 
 Nicholas A. Christakis, MD, PhD, MPH, is a social scientist and physician who conducts research in the area of biosocial science, investigating the biological predicates and consequences of social phenomena. He directs the Human Nature Lab at Yale University, where he is appointed as the Sol Goldman Family Professor of Social and Natural Science, with appointments in the Departments of Sociology, Medicine, Ecology and Evolutionary Biology, and Biomedical Engineering. He is the Co-Director of the Yale Institute for Network Science.
 
