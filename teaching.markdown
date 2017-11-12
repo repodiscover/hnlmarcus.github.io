@@ -1,7 +1,7 @@
 ---
 layout: teaching
 title: "Teaching"
-header-img: "img/teaching.jpg"
+header-img: "img/bg-teaching.jpg"
 ---
 
 I enjoy teaching tremendously, and am deeply committed to helping my students in any way I can, whether discussing social science, medicine, public health, research methodology, or career plans. I am involved in teaching at all levels.
