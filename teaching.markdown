@@ -18,7 +18,7 @@ At the post-doctoral level, I direct several extramurally funded programs that o
 
 # Courses Offered
   
-## [SOM MGM 573: Network Interventions](#mgt573)
+## SOM MGM 573: Network Interventions
 
 **Course Description:** By exploring influential and cutting-edge research related to network science, this course will equip students with the tools they need to analyze problems related to phenomena as diverse as: product marketing, sustainability initiatives, financial market contagions, team assembly and performance, firm mergers, demand forecasting, and the spread of violence, infection, cooperation, rumors, innovation, or other phenomena.
 
