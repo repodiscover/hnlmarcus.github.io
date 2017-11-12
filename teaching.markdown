@@ -18,11 +18,9 @@ At the post-doctoral level, I direct several extramurally funded programs that o
 
 # Courses Offered
   
-## [SOM MGM 573: Network Interventions](#mgm573)
+## [SOM MGM 573: Network Interventions](#mgt573)
 
-### Course Description:
-
-By exploring influential and cutting-edge research related to network science, this course will equip students with the tools they need to analyze problems related to phenomena as diverse as: product marketing, sustainability initiatives, financial market contagions, team assembly and performance, firm mergers, demand forecasting, and the spread of violence, infection, cooperation, rumors, innovation, or other phenomena.
+**Course Description:** By exploring influential and cutting-edge research related to network science, this course will equip students with the tools they need to analyze problems related to phenomena as diverse as: product marketing, sustainability initiatives, financial market contagions, team assembly and performance, firm mergers, demand forecasting, and the spread of violence, infection, cooperation, rumors, innovation, or other phenomena.
 
 An understanding of networks is crucial to leadership in entrepreneurial, business, government, or non-profit activities.  Leaders make decisions in an increasingly complex world defined by formal and informal networks – networks of employees and institutions, of collaborators and competitors, of patients and providers, of brands and customers.  Novel big-data technologies and computational techniques make this complexity visible and even manipulable.  Increasingly, we can intervene in networks to achieve public policy or management objectives.  Consequently, the topics and methods covered in the course are relevant to multiple management domains.
 
@@ -30,9 +28,7 @@ Social Network Analysis (SNA) refers to both a theoretical perspective and a set
 
 We will explore both online and offline networks, and diverse applied topics like social capital, “big data” methods, AI manipulations, online community formation, tipping points, team performance, demand forecasting, information cascades, and others. The course concludes with a set of student presentations on the application of SNA in their organization, industry, or field of interest.
 
-</section>
-
-Syllabus
+[Syllabus](uploads/MGT-573-Networks-Syllabus-2017.pdf)
 
 Sociology 126 (2016-17)
 Health of the Public: Medicine and Disease in Social Context
