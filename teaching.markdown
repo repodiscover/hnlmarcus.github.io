@@ -46,7 +46,7 @@ Social Network Analysis (SNA) refers to both a set of methodological techniques 
 
 We will explore both online and offline networks, and diverse applied topics like social capital, “big data” methods, online community formation, tipping points, team performance, demand forecasting, information cascades, online markets, and others.  And we will also have four in-class exercises using novel software to explore social network structure and function.
 
-[Syllabuys](uploads/MGT-874-Networks-Syllabus-2017.pdf)
+[Syllabus](uploads/MGT-874-Networks-Syllabus-2017.pdf)
 
 ----
 
