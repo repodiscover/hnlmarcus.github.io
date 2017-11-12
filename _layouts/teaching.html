@@ -1,31 +1,14 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
 
-<!-- Post Header -->
-<header id="header" class="intro-header bg-primary text-center" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-              <div class="post-heading">
-		      <h1>{{ page.title }}</h1>
-                <a href="#post" class="page-scroll"><i class="fa fa-fw fa-2x fa-arrow-down"></i></a>
-              </div>
-            </div>
-        </div>
-    </div>
-</header>
-<hr>
-<!-- Post Content -->
-<article>
-    <div id="post" class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-		
-				{{ content }}
+{% include head.html %}
 
-    
-            </div>
-        </div>
-    </div>
-</article>
+<body id="page-top">
+  {% include nav-teaching.html %}
+  {% include header-teaching.html %}
+	{{ content }}
+  {% include contact.html %}
+  {% include scripts.html %}
+</body>
+
+</html>
