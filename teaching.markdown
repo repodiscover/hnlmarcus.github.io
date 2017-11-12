@@ -20,7 +20,7 @@ At the post-doctoral level, I direct several extramurally funded programs that o
 
 # Courses Offered
   
-### SOM MGM 573
+### SOM MGT 573
 ## Network Interventions
 
 **Course Description:** By exploring influential and cutting-edge research related to network science, this course will equip students with the tools they need to analyze problems related to phenomena as diverse as: product marketing, sustainability initiatives, financial market contagions, team assembly and performance, firm mergers, demand forecasting, and the spread of violence, infection, cooperation, rumors, innovation, or other phenomena.
@@ -78,7 +78,7 @@ Click [here](teaching/socy126.html) to access more materials for Sociology 126, 
 
 **Course Description:** This graduate seminar (with limited enrollment, but open to anyone) will cover topics at the intersection of the natural and social sciences, including behavior genetics, gene-environment interactions, social epigenetics, and diverse other topics. We will focus on the ways in which our genes and our bodies are in a (short and long) conversation with our social environment. To what extent does our genetic makeup influence our behaviors? To what extent do our behaviors and social experiences influence our genes? To what extent do our genes increase or decrease our risk for particular outcomes given particular environmental exposures? What are the biological bases of resilience? And how does the social environment come to regulate our genome? How do social exposures reshape neural and endocrine processes? How do social exposures “get under our skin”? How are they literally embodied? This class is a topical seminar, meaning that the material covered each year will vary, and that it will be driven by student interest and fresh scientific discoveries. We are going to run this seminar jointly, and students will suggest topics, articles, critiques, and so on, at will. Students will also lead classes, and suggest topics and readings for those classes. As a result, the syllabus will likely change as the semester progresses. Each student will lead one or more classes (depending on enrollment and topics). A set of proposed topics and readings for the first part of the course is laid out below.
 
-Syllabus
+[Syllabus](uploads/Socy-636-Syllabus-Spring-2015.pdf)
 
 
 
