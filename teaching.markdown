@@ -18,7 +18,8 @@ At the post-doctoral level, I direct several extramurally funded programs that o
 
 # Courses Offered
   
-## SOM MGM 573: Network Interventions
+### SOM MGM 573
+## Network Interventions
 
 **Course Description:** By exploring influential and cutting-edge research related to network science, this course will equip students with the tools they need to analyze problems related to phenomena as diverse as: product marketing, sustainability initiatives, financial market contagions, team assembly and performance, firm mergers, demand forecasting, and the spread of violence, infection, cooperation, rumors, innovation, or other phenomena.
 
@@ -30,20 +31,44 @@ We will explore both online and offline networks, and diverse applied topics lik
 
 [Syllabus](uploads/MGT-573-Networks-Syllabus-2017.pdf)
 
-Sociology 126 (2016-17)
-Health of the Public: Medicine and Disease in Social Context
+---
+
+### SOM MGT 874
+## Networks and Health
+
+**Course description:** Decision-makers increasingly act in complex situations defined by formal and informal networks – networks of employees and institutions, of collaborators and competitors, of customers and brands, and of clients and providers.  Novel big-data technologies and computational techniques make this complexity visible and even manipulable.  Increasingly, we can intervene in networks to achieve public policy or management objectives.
+
+We will explore new research and applications in network science, with an emphasis on health-related examples.  The material covered will particularly equip students with the tools they need to analyze problems in public health, global health, and medicine, and to be leaders of companies, entrepreneurial efforts, and policy-making related to health and health care.  But the topics and methods covered in the course are relevant to management topics in other industries, including marketing, forecasting, human resources, mergers, and so on.
+
+Social Network Analysis (SNA) refers to both a set of methodological techniques and a theoretical perspective.  As a methodological approach, SNA involves techniques steeped in graph theory, with statistical and computational applications.  As a theoretical perspective, SNA stresses the interdependence among entities – such as patients, doctors, or institutions.  SNA focuses on the relationships among interacting units and on how the interaction pattern (the architecture of connections, or the “topology”) affects the behavior of the component entities and the system as a whole.  Network structure can influence diverse outcomes: from technology adoption to group performance; from organizational mergers to firm relations; from brand awareness to consumer choice; from the spread of violence to the spread of infection.
+
+We will explore both online and offline networks, and diverse applied topics like social capital, “big data” methods, online community formation, tipping points, team performance, demand forecasting, information cascades, online markets, and others.  And we will also have four in-class exercises using novel software to explore social network structure and function.
+
+[Syllabuys](uploads/MGT-874-Networks-Syllabus-2017.pdf)
+
+---
+
+### Sociology 126
+## Health of the Public: Medicine and Disease in Social Context
+
 Syllabus
 
-Sociology 636b (2016-17)
-Topics in Biosocial Science
+Click here to access more materials for Sociology 126, including FAQ, curent and past podcasts, and past exams.
+
+---
+
+### Sociology 554
+## Human Nature Lab Workshop
+
 Syllabus
 
-Sociology 554 (2016-17)
-Human Nature Lab Workshop
+---
+
+### Sociology 636b /
+### Ecology and Evolutionary Biology 636b
+## Topics in Biosocial Science
+
 Syllabus
 
 
 
-SOM Management 874
-Networks and Health
-Syllabus
