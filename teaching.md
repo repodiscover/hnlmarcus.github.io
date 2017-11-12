@@ -4,7 +4,7 @@ title: "Teaching"
 header-img: "img/teaching.jpg"
 ---
 
-# About Teaching
+# About My Teaching
 
 I enjoy teaching tremendously, and am deeply committed to helping my students in any way I can, whether discussing social science, medicine, public health, research methodology, or career plans. I am involved in teaching at all levels.
 
@@ -17,10 +17,8 @@ For example, students writing their dissertations while working on such projects
 At the post-doctoral level, I direct several extramurally funded programs that offer post-doctoral positions, focused on substantive and methodological topics related to networks, e.g., as part of our Program Project grant from NIA on “Networks and Neighborhoods”.
 
 # Courses Offered
-
-<section id="mgm573">
   
-## SOM MGM 573: Network Interventions
+## [SOM MGM 573: Network Interventions](#mgm573)
 
 ### Course Description:
 
