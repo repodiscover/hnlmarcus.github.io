@@ -6,9 +6,15 @@
 <body id="page-top">
   {% include nav-teaching.html %}
   {% include header-teaching.html %}
-	<article>
-	{{ content }}
-	</article>
+  <article>
+  	<div id="post" class="container">
+        	<div class="row">
+            		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+		    	{{ content }}
+			</div>
+		</div>
+	  </div>
+  </article>
   {% include contact.html %}
   {% include scripts.html %}
 </body>
