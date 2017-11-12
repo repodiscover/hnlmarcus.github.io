@@ -18,6 +18,8 @@ At the post-doctoral level, I direct several extramurally funded programs that o
 
 # Courses Offered
 
+<section id="mgm573">
+  
 ## SOM MGM 573: Network Interventions
 
 ### Course Description:
@@ -30,6 +32,7 @@ Social Network Analysis (SNA) refers to both a theoretical perspective and a set
 
 We will explore both online and offline networks, and diverse applied topics like social capital, “big data” methods, AI manipulations, online community formation, tipping points, team performance, demand forecasting, information cascades, and others. The course concludes with a set of student presentations on the application of SNA in their organization, industry, or field of interest.
 
+</section>
 
 Syllabus
 
