@@ -3,6 +3,7 @@ layout: teaching
 title: "Teaching"
 header-img: "img/teaching.jpg"
 ---
+<br><\br>
 
 # About My Teaching
 
