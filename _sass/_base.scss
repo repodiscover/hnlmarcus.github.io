@@ -408,6 +408,36 @@ section {
       left: 0;
     }
   }
+  
+   &.cta-socy126 {
+    position: relative;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: center;
+    background-image: url('../img/socy126.jpg');
+    padding: 250px 0;
+    .cta-content-socy126 {
+      position: relative;
+      z-index: 1;
+      h2 {
+        margin-top: 0;
+        margin-bottom: 25px;
+        color: white;
+        max-width: 450px;
+        font-size: 70px;
+      }
+    }
+    .overlay-socy126 {
+      height: 100%;
+      width: 100%;
+      background-color: rgba(0, 0, 0, 0.5);
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+  }
 
   &.contact {
     text-align: center;
