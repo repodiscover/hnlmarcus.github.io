@@ -1,7 +1,7 @@
 ---
 layout: teaching
 title: "Teaching"
-header-img: "img/bg-teaching.jpg"
+header-img: "img/teaching.jpg"
 ---
 
 # About Teaching
