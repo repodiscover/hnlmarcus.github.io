@@ -1,6 +1,7 @@
 ---
 layout: socy126
 title: "Sociology 126"
+baseurl: "/teaching/"
 ---
 <br>
 
