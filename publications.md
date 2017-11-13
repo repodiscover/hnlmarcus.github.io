@@ -4,9 +4,9 @@ title: "Publications"
 
 ---
 
-
-H. Shirado and N.A. Christakis, "Locally Noisy Autonomous Agents Improve Global Human Coordination in Network Experiments," <strong><em>Nature</em></strong>, 545, 370–374 (18 May 2017) doi:10.1038/nature22332. 
-<a href="http://nicholaschristakis.net/wp-content/uploads/2017/05/Locally-noisy-autonomous-agents-improve-global-human-coordination-in-network-experiments.pdf">MS180</a> |  picture goes here
+x | b
+--- | ---
+H. Shirado and N.A. Christakis, "Locally Noisy Autonomous Agents Improve Global Human Coordination in Network Experiments," <strong><em>Nature</em></strong>, 545, 370–374 (18 May 2017) doi:10.1038/nature22332. <a href="http://nicholaschristakis.net/wp-content/uploads/2017/05/Locally-noisy-autonomous-agents-improve-global-human-coordination-in-network-experiments.pdf">MS180</a> |  ![](../img/teaching.jpg)
 F. Fu, N.A. Christakis, and J.H. Fowler, "Dueling Biological and Social Contagions," <strong><em>Scientific Reports</em></strong>, March 2017); 7: 43643 DOI: 10.1038/srep43634. <br /><a href="http://nicholaschristakis.net/wp-content/uploads/2017/05/Dueling-Biological-and-Social-Contagions.pdf">MS179</a> | another picture goes here
 
 
