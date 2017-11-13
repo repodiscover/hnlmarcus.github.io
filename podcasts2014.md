@@ -1,7 +1,6 @@
 ---
-layout: teaching
-title: "Teaching"
-header-img: "img/teaching.jpg"
+layout: socy126
+title: "Sociology 126: 2014 Podcasts"
 ---
 <br>
 
