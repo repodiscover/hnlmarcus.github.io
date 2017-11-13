@@ -58,7 +58,7 @@ We will explore both online and offline networks, and diverse applied topics lik
 
 [Syllabus](uploads/Socy_126_Syllabus_2015.pdf)
 
-Click [here](teaching/socy126.html) to access more materials for Sociology 126, including FAQ, curent and past podcasts, and past exams.
+Click [here](../socy126) to access more materials for Sociology 126, including FAQ, curent and past podcasts, and past exams.
 
 ----
 
