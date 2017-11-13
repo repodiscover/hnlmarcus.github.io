@@ -1,16 +1,16 @@
 ---
-layout: default
---
+layout: teaching
+title: "Teaching"
+header-img: "img/teaching.jpg"
+---
+<br>
 
 
 
 
 
-<article id="post-327" class="post-327 page type-page status-publish hentry">
+<article>
 	<header class="entry-header">
-		<h1 class="entry-title">Past Podcasts</h1>	</header><!-- .entry-header -->
-
-	<div class="entry-content">
 		<h1>2014 Health &amp; the Public: Medicine and Disease in Social Context</h1>
 <p>&nbsp;</p>
 <p>Here we provide links to lecture videos from last year are available. The lectures for 2014 are keyed to the <a title="2014 Syllabus" href="../../../pdf/teaching/syllabus.pdf" target="_blank">syllabus for 2014</a>.</p>
