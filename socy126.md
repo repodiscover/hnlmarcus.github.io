@@ -123,13 +123,13 @@ Question 2 score = %Page filled + Pen + Cursive + Alphabetical rank of last name
 
 Where “Pen” and “Cursive” are indicator variables.
 
-| Coefficients:|  	Estimate   |	Std. Error  |	t value | 	Pr(>|t|) |
-| --- | --- | --- | --- | --- |
-|(Intercept)	|12.400229 |	0.956427	| 12.965	| < 2e-16 *** |
-|Pct_page	| 0.032386	| 0.010018	 |3.233 |	0.00135 ** |
-|Pen	| -0.273912	| 0.362933 |	-0.755	| 0.45095 |
-|Cursive	| -0.731711	| 0.497782	| -1.470	| 0.14253|
-|Alpha_pos	| 0.002791	| 0.001464	| 1.906 |	0.05748 .|
+Coefficients: |  	Estimate   |	Std. Error  |	t value | 	Pr(>|t|) 
+--- | --- | --- | --- | --- 
+(Intercept)	|12.400229 |	0.956427	| 12.965	| < 2e-16 *** 
+Pct_page	| 0.032386	| 0.010018	 | 3.233 |	0.00135 ** 
+Pen	| -0.273912	| 0.362933 |	-0.755	| 0.45095 
+Cursive	| -0.731711	| 0.497782	| -1.470	| 0.14253
+Alpha_pos	| 0.002791	| 0.001464	| 1.906 |	0.05748 .
 
 ```
 Signif. codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1 
