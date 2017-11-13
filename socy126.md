@@ -141,6 +141,11 @@ Adjusted R-squared: 0.03127
 F-statistic: 3.703 on 4 and 331 DF, p-value: 0.005773 
 ```
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 What would you guess is the effect of filling up more of the page?  There is one (p<.01), but it seems surprisingly small in magnitude, i.e., on average 0.8 points more for every additional quarter of a page of writing.  And thankfully it’s not, in general, the case that only long answers got good scores.
 
 Thankfully, pen vs. pencil and cursive vs. print weren’t significantly predictive.  Alphabetical rank of last name had a borderline significant (p=.06) coefficient, so we now shuffle the exams.
