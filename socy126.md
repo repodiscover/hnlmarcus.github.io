@@ -125,7 +125,7 @@ Where “Pen” and “Cursive” are indicator variables.
 
 Coefficients: |  	Estimate   |	Std. Error  |	t value | 	Pr(>|t|) 
 --- | --- | --- | --- | --- 
-(Intercept)	|12.400229 |	0.956427	| 12.965	| < 2e-16 *** 
+(Intercept)	| 12.400229 |	0.956427	| 12.965	| < 2e-16 *** 
 Pct_page	| 0.032386	| 0.010018	 | 3.233 |	0.00135 ** 
 Pen	| -0.273912	| 0.362933 |	-0.755	| 0.45095 
 Cursive	| -0.731711	| 0.497782	| -1.470	| 0.14253
@@ -140,11 +140,6 @@ Multiple R-squared: 0.04283,
 Adjusted R-squared: 0.03127
 F-statistic: 3.703 on 4 and 331 DF, p-value: 0.005773 
 ```
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
 What would you guess is the effect of filling up more of the page?  There is one (p<.01), but it seems surprisingly small in magnitude, i.e., on average 0.8 points more for every additional quarter of a page of writing.  And thankfully it’s not, in general, the case that only long answers got good scores.
 
