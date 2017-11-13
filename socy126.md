@@ -1,7 +1,6 @@
 ---
 layout: socy126
 title: "Sociology 126"
-baseurl: "/teaching/"
 ---
 <br>
 
@@ -124,27 +123,25 @@ Question 2 score = %Page filled + Pen + Cursive + Alphabetical rank of last name
 
 Where “Pen” and “Cursive” are indicator variables.
 
-Coefficients:  	Estimate   	Std. Error  	t value  	Pr(>|t|)
-(Intercept)	12.400229	0.956427	12.965	< 2e-16 ***
-Pct_page	 0.032386	0.010018	 3.233	0.00135 **
-Pen	-0.273912	0.362933	-0.755	0.45095
-Cursive	-0.731711	0.497782	-1.470	0.14253
-Alpha_pos	 0.002791	0.001464	 1.906	0.05748 .
+```
+| Coefficients:|  	Estimate   |	Std. Error  |	t value | 	Pr(>|t|) |
+| --- | --- | --- | --- | --- |
+|(Intercept)	|12.400229 |	0.956427	| 12.965	| < 2e-16 *** |
+|Pct_page	| 0.032386	| 0.010018	 |3.233	0.00135 ** |
+|Pen	| -0.273912	0.362933 |	-0.755	| 0.45095 |
+|Cursive	| -0.731711	0.497782	| -1.470	0.14253|
+|Alpha_pos	| 0.002791	0.001464	| 1.906	0.05748 .|
  
-
 Signif. codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1 
-
- 
 
 Residual standard error: 3.269 on 331 degrees of freedom
 88 observations deleted due to missingness)
 Multiple R-squared: 0.04283,
 Adjusted R-squared: 0.03127
 F-statistic: 3.703 on 4 and 331 DF, p-value: 0.005773 
+```
 
-What would you guess is the effect of filling up more of the page?  There is one (p<.01), but it seems surprisingly small in magnitude, i.e., on average 0.8 points more for every additional quarter of a page of writing.  And thankfully it’s not, in general, the case that only long answers got good scores:
-
-Figure 1
+What would you guess is the effect of filling up more of the page?  There is one (p<.01), but it seems surprisingly small in magnitude, i.e., on average 0.8 points more for every additional quarter of a page of writing.  And thankfully it’s not, in general, the case that only long answers got good scores.
 
 Thankfully, pen vs. pencil and cursive vs. print weren’t significantly predictive.  Alphabetical rank of last name had a borderline significant (p=.06) coefficient, so we now shuffle the exams.
 
@@ -152,13 +149,4 @@ Finally, it should come as a relief that a model based entirely on predictors th
 
 What is the effect of student year (freshman/sophomore/etc.) on course grade?  SOCY 126 draws impressively evenly from the full spectrum of the collegiate career.
 
-Figure 3
-
-And the mean course grades, by year in college?  With dazzling, poetic symmetry, they are 87.3, 88.4, 88.4, 87.3.
-
-Let us hammer this point home:
-
-Figure 3
-
-
-
+And the mean course grades, by year in college?  With dazzling, poetic symmetry, they are 87.3, 88.4, 88.4, 87.3!
