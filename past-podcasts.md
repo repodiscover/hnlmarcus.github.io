@@ -5,13 +5,8 @@ header-img: "img/teaching.jpg"
 ---
 <br>
 
+# 2014 Health &amp; the Public: Medicine and Disease in Social Context
 
-
-
-
-<article>
-	<header class="entry-header">
-		<h1>2014 Health &amp; the Public: Medicine and Disease in Social Context</h1>
 <p>&nbsp;</p>
 <p>Here we provide links to lecture videos from last year are available. The lectures for 2014 are keyed to the <a title="2014 Syllabus" href="../../../pdf/teaching/syllabus.pdf" target="_blank">syllabus for 2014</a>.</p>
 <p>&nbsp;</p>
@@ -327,22 +322,4 @@ var pageTracker = _gat._getTracker("UA-3886493-1"); pageTracker._initData(); pag
 <p>&nbsp;</p>
 <p><object width="640 height=" height="150"><param name="movie" value="fast.wistia.net/embed/iframe/sya89krx98" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><iframe src="//fast.wistia.net/embed/iframe/sya89krx98" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" webkitallowfullscreen="webkitallowfullscreen" oallowfullscreen="" msallowfullscreen="" width="640" height="360">			</iframe></object></p>
 <p>&nbsp;</p>
-<p><a class="footer-ital" href="#top">Back to Top</a></p>
-<p><!-- END ROW1 --><!-- #BeginLibraryItem "/Library/copyright.lbi" --></p>
-<div id="copyright"><span class="footer">© 2013 Nicholas A. Christakis | <iframe style="vertical-align: middle; width: 140px; height: 20px;" src="//platform.twitter.com/widgets/follow_button.html?screen_name=NAChristakis&amp;show_count=false" width="300" height="150" frameborder="0" scrolling="no"></iframe> | Website Design by <a title="WebSiteGeist" href="http://www.WebSiteGeist.com" target="_blank">WebSiteGeist</a></span></div>
-<p><!-- #EndLibraryItem --><!-- END COPYRIGHT --></p>
-<p><!-- END CONTENT --><br />
-<!--GOOGLE ANALYTICS BEG--><br />
-<script type="text/javascript">// <![CDATA[
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-// ]]&gt;</script><br />
-<script type="text/javascript">// <![CDATA[
-var pageTracker = _gat._getTracker("UA-3886493-1"); pageTracker._initData(); pageTracker._trackPageview();
-// ]]&gt;</script><br />
-<!--GOOGLE ANALYTICS END--></p>
-<p><!-- InstanceEndEditable --><br />
-<!-- END CONTAINER --><br />
-<!-- InstanceEnd --></p>
-			</div><!-- .entry-content -->
 
-</article><!-- #post-## -->
